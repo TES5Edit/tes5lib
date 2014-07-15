@@ -12,7 +12,7 @@
 #include "srlstringsubrecord.h"
 #include <unordered_map>
 #include "../srrecordhandler.h"
-#include "strings/srstringfile.h"
+#include "../../strings/srstringfile.h"
 
 
 /*===========================================================================
