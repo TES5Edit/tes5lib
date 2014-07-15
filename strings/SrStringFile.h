@@ -21,9 +21,9 @@
  * Begin Required Includes
  *
  *=========================================================================*/
-  #include "common/srfile.h"
-  #include "modfile/srmoddefs.h"
-  #include "common/srarray.h"
+  #include "../common/srfile.h"
+  #include "../modfile/srmoddefs.h"
+  #include "../common/srarray.h"
 /*===========================================================================
  *		End of Required Includes
  *=========================================================================*/
