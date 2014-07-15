@@ -2,7 +2,7 @@
 #define __SRSCRIPTTOKENS_H
 
 
-#include "modfile/srmoddefs.h"
+#include "../modfile/srmoddefs.h"
 #include <vector>
 
 
