@@ -16,20 +16,20 @@
  * Begin Required Includes
  *
  *=========================================================================*/
-	#include "common/srfile.h"
-	#include "common/srlogfile.h"
-	#include "common/textutils.h"
-	#include "common/srcallback.h"
-	#include "common/srarray.h"
-	#include "common/srptrarray.h"
-	#include "common/csvfile.h"
-	#include "modfile/srfields.h"
-	#include "modfile/srrectype.h"
-	#include "common/srtime.h"
-	#include "modfile/srfunctions.h"
-	#include "common/srblockallocator.h"
+	#include "../common/srfile.h"
+	#include "../common/srlogfile.h"
+	#include "../common/textutils.h"
+	#include "../common/srcallback.h"
+	#include "../common/srarray.h"
+	#include "../common/srptrarray.h"
+	#include "../common/csvfile.h"
+	#include "../modfile/srfields.h"
+	#include "../modfile/srrectype.h"
+	#include "../common/srtime.h"
+	#include "../modfile/srfunctions.h"
+	#include "../common/srblockallocator.h"
 	#include "SrScriptTokens.h"
-	#include "modfile/subrecords/srvmadsubrecord.h"
+	#include "../modfile/subrecords/srvmadsubrecord.h"
 	#include "srscriptrecord.h"
 /*===========================================================================
  *		End of Required Includes
