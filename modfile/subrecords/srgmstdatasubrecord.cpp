@@ -11,7 +11,7 @@
 	/* Include Files */
 #include "srgmstdatasubrecord.h"
 #include "../srrecordhandler.h"
-#include "strings/srstringfile.h"
+#include "../../strings/srstringfile.h"
 
 
 /*===========================================================================
