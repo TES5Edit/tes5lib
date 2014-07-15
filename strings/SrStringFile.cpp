@@ -9,8 +9,8 @@
 
 	/* Include Files */
 #include "srstringfile.h"
-#include "common/srtime.h"
-#include "common/srutils.h"
+#include "../common/srtime.h"
+#include "../common/srutils.h"
 
 
 /*===========================================================================
